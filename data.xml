@@ -1,0 +1,85 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<SearchResults:searchresults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SearchResults="http://www.zillow.com/static/xsd/SearchResults.xsd" xsi:schemaLocation="http://www.zillow.com/static/xsd/SearchResults.xsd http://www.zillowstatic.com/vstatic/6eb1265/static/xsd/SearchResults.xsd">
+<request>
+    <address>2636 Menlo Avenue</address>
+    <citystatezip>los angeles, CA</citystatezip>
+</request>
+<message>
+    <text>Request successfully processed</text>
+    <code>0</code>
+</message>
+<response>
+    <results>
+        <result>
+            <zpid>20593083</zpid>
+            <links>
+            <homedetails>
+                http://www.zillow.com/homedetails/2636-Menlo-Ave-Los-Angeles-CA-90007/20593083_zpid/
+            </homedetails>
+            <graphsanddata>
+                http://www.zillow.com/homedetails/2636-Menlo-Ave-Los-Angeles-CA-90007/20593083_zpid/#charts-and-data
+            </graphsanddata>
+            <mapthishome>http://www.zillow.com/homes/20593083_zpid/</mapthishome>
+            <comparables>http://www.zillow.com/homes/comps/20593083_zpid/</comparables>
+            </links>
+            <address>
+                <street>2636 Menlo Ave</street>
+                <zipcode>90007</zipcode>
+                <city>Los Angeles</city>
+                <state>CA</state>
+                <latitude>34.03163</latitude>
+                <longitude>-118.289972</longitude>
+            </address>
+            <FIPScounty>6037</FIPScounty>
+            <useCode>Duplex</useCode>
+            <taxAssessmentYear>2013</taxAssessmentYear>
+            <taxAssessment>152082.0</taxAssessment>
+            <yearBuilt>1924</yearBuilt>
+            <lotSizeSqFt>5242</lotSizeSqFt>
+            <finishedSqFt>1728</finishedSqFt>
+            <bathrooms>2.0</bathrooms>
+            <bedrooms>2</bedrooms>
+            <lastSoldDate>07/29/1996</lastSoldDate>
+            <lastSoldPrice currency="USD">115000</lastSoldPrice>
+            <zestimate>
+                <amount currency="USD">443315</amount>
+                <last-updated>10/09/2014</last-updated>
+                <oneWeekChange deprecated="true"/>
+                <valueChange duration="30" currency="USD">-23546</valueChange>
+                <valuationRange>
+                    <low currency="USD">398984</low>
+                    <high currency="USD">518679</high>
+                </valuationRange>
+                <percentile>0</percentile>
+            </zestimate>
+            <rentzestimate>
+                <amount currency="USD">1907</amount>
+                <last-updated>10/06/2014</last-updated>
+                <oneWeekChange deprecated="true"/>
+                <valueChange duration="30" currency="USD">36</valueChange>
+                <valuationRange>
+                    <low currency="USD">1468</low>
+                    <high currency="USD">2441</high>
+                </valuationRange>
+            </rentzestimate>
+<localRealEstate>
+<region id="268581" type="neighborhood" name="West Adams">
+<zindexValue>502,900</zindexValue>
+<links>
+<overview>
+http://www.zillow.com/local-info/CA-Los-Angeles/West-Adams/r_268581/
+</overview>
+<forSaleByOwner>
+http://www.zillow.com/west-adams-los-angeles-ca/fsbo/
+</forSaleByOwner>
+<forSale>http://www.zillow.com/west-adams-los-angeles-ca/</forSale>
+</links>
+</region>
+</localRealEstate>
+</result>
+</results>
+</response>
+</SearchResults:searchresults>
+<!--
+ H:003  T:63ms  S:1409  R:Mon Oct 13 01:54:01 PDT 2014  B:4.0.4010-release_20140912124200.d34d2ef-CANDIDATE-d80eb2c-20140918.171324.d34d2efdac663ed3daf997ab51ccee6944dd075c.20140918101613791-origin/release/20140912124200 
+-->
